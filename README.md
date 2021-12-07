@@ -30,12 +30,20 @@ f3 = redundant("");
 
 Here is the [solution](2_redundant.js)
 
-Wparrtiteic (^) ua (^) lfaunr suctfionfix atht atht (^) ere eturnsnd. an anonymous function, which transforms its input by adding a
+```
+Write a function that returns an anonymous function, which transforms its input by adding a particular suffix at the end.
+```
+
+```
 add_ly = add_suffix( "ly");
 add_ly(add_ly("hopeless""total"); ); // "totally"// "hopelessly"
 (^) add_less = add_suffix("less");
 (^) add_less("fear"); // "fearless"
 add_less("ruth"); // "ruthless"
+```
+
+Here is the [solution](3_suffix.js)
+
 Create a function printAfter that calls its argument after printing hello world
 const print = () => console.log("Elon Musk");
 
