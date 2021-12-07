@@ -44,21 +44,13 @@ add_less("ruth"); // "ruthless"
 
 Here is the [solution](3_suffix.js)
 
+```
 Create a function printAfter that calls its argument after printing hello world
-const print = () => console.log("Elon Musk");
-
-README.md 12/6/
-
+const print = () => console.log("Elon Musk")
 ```
 
-2 / 2
+Here is the [solution](4_print_after.js)
 
-```
-
-```
-
-printAfter(print);// 'hello, world'
-// 'Elon Musk'
 Write a function that implements filtering in array
 constfilterFalsyValues(values); values = [null, true, {}, { // [true, {}, { name: "Elon" }];name: "Elon" }, "", NaN, 0 ];
 filterFalsyValues(["hello", 1233 , []]); // ['hello', 1233, []]
@@ -82,6 +74,8 @@ Available in russian
 ```
 
 VPaytrihaonbleT (^) utorscope, closure
+
+```
 
 ```
 
