@@ -84,3 +84,9 @@ word or phrase without a repeating letter
 ```
 
 Here is the [solution](8_isogram.js)
+
+```
+Given an array of numbers. Find the sum of numbersʼ quadratic which are even
+```
+
+Here is the [solution](9_quadratic.js)
