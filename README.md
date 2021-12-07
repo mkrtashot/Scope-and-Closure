@@ -90,3 +90,9 @@ Given an array of numbers. Find the sum of numbersʼ quadratic which are even
 ```
 
 Here is the [solution](9_quadratic.js)
+
+```
+Check whether string is palindrome, or not.
+```
+
+Here is the [solution](10_polindrom.js)
