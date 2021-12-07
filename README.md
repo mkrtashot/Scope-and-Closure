@@ -13,14 +13,23 @@ addTen( 10 ); // 20
 
 Here is the [solution](1_partial_sum.js)
 
+```
 Write a function redundant that takes in a string str and returns a function that returns str.
-const//f1() ➞ "apple" f1 = redundant( "apple");
-
 ```
 
-(^) const f2 = redundant("pear");
+```
+const//f1() ➞ "apple" f1 = redundant( "apple");
+
+const f2 = redundant("pear");
 //f2() ➞ "pear"
-const//f3() ➞ "" f3 = redundant("");
+
+const//f3() ➞ ""
+
+f3 = redundant("");
+```
+
+Here is the [solution](2_redundant.js)
+
 Wparrtiteic (^) ua (^) lfaunr suctfionfix atht atht (^) ere eturnsnd. an anonymous function, which transforms its input by adding a
 add_ly = add_suffix( "ly");
 add_ly(add_ly("hopeless""total"); ); // "totally"// "hopelessly"
@@ -65,4 +74,7 @@ Available in russian
 ```
 
 VPaytrihaonbleT (^) utorscope, closure
+
+```
+
 ```
