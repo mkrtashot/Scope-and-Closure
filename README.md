@@ -72,27 +72,15 @@ filterByLength(['mercedes'] "kia", "tesla", "bmw", "mercedes"]); // ['tesla',
 
 Here is the [solution](6_filter_by_length.js)
 
+```
 Given an array. Determine whether it consists only from uniques or not.
-
 ```
 
-Dworetedrm ori npeh (^) rifa (^) sae wor witdh (^) outor p ah rraespee (^) aist (^) ianng ilsoettgerra.m. An isogram (also known as a "non pattern word") is a
-Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
-Check whether string is palindrome, or not.
-Gthiavet npro and (^) uarrcta.y of integers, find the pair of adjacent elements that has the largest product and return
-
-## Literature
+Here is the [solution](7_unique.js)
 
 ```
-
-Available in russian
-
+Determine if a word or phrase is an isogram. An isogram (also known as a "non pattern word") is a
+word or phrase without a repeating letter
 ```
 
-VPaytrihaonbleT (^) utorscope, closure
-
-```
-
-```
-
-```
+Here is the [solution](8_isogram.js)
