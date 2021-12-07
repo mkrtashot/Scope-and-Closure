@@ -96,3 +96,10 @@ Check whether string is palindrome, or not.
 ```
 
 Here is the [solution](10_polindrom.js)
+
+```
+Given an array of integers, find the pair of adjacent elements that has the largest product and return
+that product.
+```
+
+Here is the [solution](11_adjacent.js)
