@@ -51,9 +51,17 @@ const print = () => console.log("Elon Musk")
 
 Here is the [solution](4_print_after.js)
 
+```
 Write a function that implements filtering in array
+```
+
+```
 constfilterFalsyValues(values); values = [null, true, {}, { // [true, {}, { name: "Elon" }];name: "Elon" }, "", NaN, 0 ];
 filterFalsyValues(["hello", 1233 , []]); // ['hello', 1233, []]
+```
+
+Here is the [solution](5_filter_falsy_values.js)
+
 Write a function which remove elements with length <= 3
 filterByLength(['mercedes'] "kia", "tesla", "bmw", "mercedes"]); // ['tesla',
 Given an array. Determine whether it consists only from uniques or not.
