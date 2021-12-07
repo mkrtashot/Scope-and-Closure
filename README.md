@@ -62,8 +62,16 @@ filterFalsyValues(["hello", 1233 , []]); // ['hello', 1233, []]
 
 Here is the [solution](5_filter_falsy_values.js)
 
+```
 Write a function which remove elements with length <= 3
+```
+
+```
 filterByLength(['mercedes'] "kia", "tesla", "bmw", "mercedes"]); // ['tesla',
+```
+
+Here is the [solution](6_filter_by_length.js)
+
 Given an array. Determine whether it consists only from uniques or not.
 
 ```
